@@ -97,7 +97,7 @@ export default function Events() {
 											<Image src="/cal.svg" alt="calendar" width="16" height="16" />
 										</div>
 										<div>
-											<p className="satoshi-bold text-[14px] leading-[150%]">It's Raining</p>
+											<p className="satoshi-bold text-[14px] leading-[150%]">It&apos;s Raining</p>
 										</div>
 									</div>
 									<div className="flex items-center gap-[8px]"><span><Image src="/clock.svg" alt="clock" width="16" height="16" /></span> <span className="satoshi-bold text-[14px] leading-[150%]">Started</span> <span className="text-[14px] leading-[150%]">2022-09-13 08:57:15</span></div>
