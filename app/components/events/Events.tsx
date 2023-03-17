@@ -19,7 +19,7 @@ export default function Events() {
 												<Image src="/Loader.svg" alt="state" width="20" height="20" />
 											</div>
 											<div>
-												<p className="satoshi-bold text-[12px] leading-[150%]">AIRDROP</p>
+												<p className="satoshi-bold text-[12px] leading-[150%] text-white">AIRDROP</p>
 											</div>
 										</div>
 									</div>
@@ -88,7 +88,7 @@ export default function Events() {
 												<Image src="/Frame.svg" alt="state" width="20" height="20" />
 											</div>
 											<div>
-												<p className="satoshi-bold text-[12px] leading-[150%]">AIRDROP</p>
+												<p className="satoshi-bold text-[12px] leading-[150%] text-white">AIRDROP</p>
 											</div>
 										</div>
 									</div>
